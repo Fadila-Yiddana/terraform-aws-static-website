@@ -11,7 +11,9 @@ This project deploys a static website on AWS using Terraform.
 - Amazon S3
 - Amazon CloudFront
 - Terraform
+## Architecture Diagram
 
+![Architecture](diagrams/static-website-architecture.png)
 ## Project Status
 
 In Progress 🚀
