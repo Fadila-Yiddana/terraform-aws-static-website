@@ -1,3 +1,4 @@
 variable "bucket_name" {
-  description = "Name of S3 bucket"
+  description = "Name of the S3 bucket"
+  default     = "fadila-static-website-demo"
 }
