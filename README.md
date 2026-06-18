@@ -27,3 +27,12 @@ Key concepts learned:
 - terraform validate
 - GitHub project documentation
 - AWS architecture diagrams
+
+
+## Future Improvements
+
+- Add CloudFront distribution
+- Configure Route 53 custom domain
+- Enable HTTPS using AWS Certificate Manager
+- Deploy using a cloud lab environment
+- Add Terraform modules for reusability
