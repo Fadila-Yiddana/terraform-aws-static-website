@@ -1,3 +1,8 @@
+# Terraform AWS Static Website
+
+A beginner-friendly Infrastructure as Code (IaC) project built with Terraform and AWS.
+
+
 ## Project Overview
 
 This project demonstrates how Terraform can be used to provision AWS infrastructure for hosting a static website.
