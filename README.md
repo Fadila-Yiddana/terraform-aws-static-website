@@ -41,7 +41,7 @@ File:
 
 ✅ CloudFront Integration Configured
 
-🔄 Deployment Pending (AWS Credentials Required)
+🔄  Deployment Pending (AWS Lab Environment Required)
 
 
 ## Learning Journey
