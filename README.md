@@ -18,6 +18,17 @@ The project includes:
 The goal of this project is to strengthen my Terraform and AWS skills while building a professional cloud portfolio.
 
 
+## Architecture Diagram
+
+The architecture diagram for this project can be found in the `diagrams` folder.
+
+File:
+
+- static-website-architecture.png
+
+
+
+
 ## Project Status
 
 ✅ Repository Created
