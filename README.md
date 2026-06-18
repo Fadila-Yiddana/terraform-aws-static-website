@@ -70,3 +70,16 @@ Key concepts learned:
 - Enable HTTPS using AWS Certificate Manager
 - Deploy using a cloud lab environment
 - Add Terraform modules for reusability
+
+- ## Deployment Notes
+
+This project was developed and validated using Terraform.
+
+Actual deployment requires valid AWS credentials or access to an AWS lab environment. Due to the temporary nature of training lab accounts, deployment is currently pending access to a new AWS environment.
+
+Terraform Status:
+
+- terraform init ✅
+- terraform validate ✅
+- CloudFront Configuration ✅
+- Deployment Pending 🔄
