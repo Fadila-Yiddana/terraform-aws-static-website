@@ -39,9 +39,9 @@ File:
 
 ✅ Architecture Diagram Created
 
-🔄 CloudFront Integration Planned
+✅ CloudFront Integration Configured
 
-🔄 Deployment Pending
+🔄 Deployment Pending (AWS Credentials Required)
 
 
 ## Learning Journey
@@ -58,6 +58,9 @@ Key concepts learned:
 - terraform validate
 - GitHub project documentation
 - AWS architecture diagrams
+- - S3 Static Website Hosting
+- CloudFront Distributions
+- Terraform Resource Dependencies
 
 
 ## Future Improvements
