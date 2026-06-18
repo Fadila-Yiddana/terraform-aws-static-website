@@ -1,3 +1,18 @@
+## Project Overview
+
+This project demonstrates how Terraform can be used to provision AWS infrastructure for hosting a static website.
+
+The project includes:
+
+- Terraform configuration files
+- AWS provider configuration
+- Variables and outputs
+- Architecture documentation
+- Infrastructure as Code (IaC) best practices
+
+The goal of this project is to strengthen my Terraform and AWS skills while building a professional cloud portfolio.
+
+
 ## Project Status
 
 ✅ Repository Created
