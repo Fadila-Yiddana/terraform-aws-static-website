@@ -54,15 +54,15 @@ terraform-aws-static-website/
 
 
 ├── terraform/
-│
+
 ├── main.tf
-│ 
+ 
 ├── provider.tf
-│
+
 ├── variables.tf
-│ 
+
 ├── outputs.tf
-│ 
+ 
 └── terraform.tfvars
 
 
