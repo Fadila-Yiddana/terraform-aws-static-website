@@ -1,6 +1,6 @@
 # Terraform AWS Static Website
 
-A beginner-friendly Infrastructure as Code (IaC) project built with Terraform and AWS.
+This project provisions the infrastructure required to host a static website on AWS using Terraform. It demonstrates Infrastructure as Code (IaC) best practices while leveraging Amazon S3 and Amazon CloudFront for scalable and reliable content delivery.
 
 
 ## Project Overview
@@ -18,68 +18,83 @@ The project includes:
 The goal of this project is to strengthen my Terraform and AWS skills while building a professional cloud portfolio.
 
 
-## Architecture Diagram
+## Architecture
 
-The architecture diagram for this project can be found in the `diagrams` folder.
-
-File:
-
-- static-website-architecture.png
+![Architecture](Diagram/static-website-architecture.png)
 
 
 
 
 ## Project Status
 
-✅ Repository Created
-
-✅ Terraform Initialized
-
-✅ Terraform Configuration Validated
-
-✅ Architecture Diagram Created
-
-✅ CloudFront Integration Configured
-
-🔄  Deployment Pending (AWS Lab Environment Required)
+- ✅ Repository Created
+- ✅ Terraform Configuration Completed
+- ✅ Terraform Initialized
+- ✅ Terraform Formatted
+- ✅ Terraform Validated
+- ✅ Architecture Diagram Created
+- ✅ CloudFront Configuration Added
+- ⏳ Deployment Pending (Awaiting AWS Environment)
 
 
-## Learning Journey
+## AWS Services Used
 
-This project is part of my journey to learn Infrastructure as Code (IaC) using Terraform and AWS.
+- Amazon S3
+- Amazon CloudFront
+- AWS IAM
+- Terraform
 
-Key concepts learned:
+## Project Structure
 
-- Providers
-- Resources
-- Variables
-- Outputs
-- terraform init
-- terraform validate
-- GitHub project documentation
-- AWS architecture diagrams
-- - S3 Static Website Hosting
-- CloudFront Distributions
-- Terraform Resource Dependencies
+terraform-aws-static-website/
+
+├── Diagram/
+│   └── static-website-architecture.png
+│
+├── terraform/
+│   ├── main.tf
+│   ├── provider.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   └── terraform.tfvars
+│
+└── README.md
+
+
+## Skills Demonstrated
+
+- Infrastructure as Code (Terraform)
+- AWS Provider Configuration
+- Amazon S3 Static Website Hosting
+- Amazon CloudFront Distribution
+- Terraform Variables and Outputs
+- Resource Dependencies
+- Git Version Control
+- Cloud Architecture Documentation
+
+## Terraform Workflow
+
+```bash
+terraform init
+
+terraform fmt
+
+terraform validate
+
+terraform plan
+
+terraform apply
+```
 
 
 ## Future Improvements
 
-- Add CloudFront distribution
 - Configure Route 53 custom domain
-- Enable HTTPS using AWS Certificate Manager
-- Deploy using a cloud lab environment
-- Add Terraform modules for reusability
+- Secure the website with AWS Certificate Manager (ACM)
+- Automate deployment using GitHub Actions
+- Enable S3 versioning
+- Add Terraform modules for improved reusability
 
 - ## Deployment Notes
 
-This project was developed and validated using Terraform.
-
-Actual deployment requires valid AWS credentials or access to an AWS lab environment. Due to the temporary nature of training lab accounts, deployment is currently pending access to a new AWS environment.
-
-Terraform Status:
-
-- terraform init ✅
-- terraform validate ✅
-- CloudFront Configuration ✅
-- Deployment Pending 🔄
+The infrastructure has been fully developed and validated using Terraform. Deployment is currently pending access to an AWS environment with valid credentials.
