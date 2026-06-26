@@ -52,6 +52,8 @@ terraform-aws-static-website/
 
   │   └── static-website-architecture.png
 
+  
+
 
 ├── terraform/
 
@@ -64,6 +66,8 @@ terraform-aws-static-website/
   ├── outputs.tf
  
   └── terraform.tfvars
+
+  
 
 
 └── README.md
