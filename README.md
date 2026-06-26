@@ -49,6 +49,7 @@ https://github.com/Fadila-Yiddana/terraform-aws-static-website/blob/main/diagram
 terraform-aws-static-website/
 
 ├── Diagram/
+
 │   └── static-website-architecture.png
 
 ├── terraform/
