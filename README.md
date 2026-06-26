@@ -18,9 +18,9 @@ The project includes:
 The goal of this project is to strengthen my Terraform and AWS skills while building a professional cloud portfolio.
 
 
-## Architecture
+## Architecture Diagram
 
-![Architecture](Diagram/static-website-architecture.png)
+https://github.com/Fadila-Yiddana/terraform-aws-static-website/blob/main/diagrams/static-website-architecture.png
 
 
 
