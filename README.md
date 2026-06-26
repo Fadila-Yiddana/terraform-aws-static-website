@@ -20,7 +20,7 @@ The goal of this project is to strengthen my Terraform and AWS skills while buil
 
 ## Architecture Diagram
 
-https://github.com/Fadila-Yiddana/terraform-aws-static-website/blob/main/diagrams/static-website-architecture.png
+https://github.com/Fadila-Yiddana/terraform-aws-static-website/blob/main/diagrams/AWS%20Static%20Website%20Architecture.png
 
 
 
