@@ -20,7 +20,7 @@ The goal of this project is to strengthen my Terraform and AWS skills while buil
 
 ## Architecture
 
-![Architecture](diagrams/AWS static Website Architecture.png)
+![AWS Static Website Architecture](diagrams/static-website-architecture.png)
 
 
 
