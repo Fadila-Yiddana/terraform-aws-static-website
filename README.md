@@ -22,6 +22,12 @@ The goal of this project is to strengthen my Terraform and AWS skills while buil
 
 ![AWS Static Website Architecture](diagrams/static-website-architecture.png)
 
+The infrastructure consists of:
+
+- **Amazon S3** for static website hosting
+- **Amazon CloudFront** for global content delivery and caching
+- **Terraform** for Infrastructure as Code (IaC) provisioning
+
 
 
 
