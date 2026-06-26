@@ -50,20 +50,20 @@ terraform-aws-static-website/
 
 ├── Diagram/
 
-│   └── static-website-architecture.png
+  │   └── static-website-architecture.png
 
 
 ├── terraform/
 
-├── main.tf
+  ├── main.tf
  
-├── provider.tf
+  ├── provider.tf
 
-├── variables.tf
+  ├── variables.tf
 
-├── outputs.tf
+  ├── outputs.tf
  
-└── terraform.tfvars
+  └── terraform.tfvars
 
 
 └── README.md
