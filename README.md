@@ -41,7 +41,7 @@ The infrastructure consists of:
 - ✅ Terraform Validated
 - ✅ Architecture Diagram Created
 - ✅ CloudFront Configuration Added
-- ⏳ Deployment Pending (Awaiting AWS Environment)
+- ✅ Deployed
 
 
 ## AWS Services Used
@@ -105,6 +105,17 @@ terraform apply
 - Enable S3 versioning
 - Add Terraform modules for improved reusability
 
-- ## Deployment Notes
+  ## Deployment Notes
 
-The infrastructure has been fully developed and validated using Terraform. Deployment is currently pending access to an AWS environment with valid credentials.
+This project was developed as part of my hands-on cloud engineering portfolio using Terraform and AWS.
+
+The infrastructure was successfully deployed and tested in a cloud training environment during my AWS training at AmaliTech Ghana. As the training lab environments were temporary, the deployed resources were terminated after the lab sessions expired.
+
+The Terraform configuration has been validated locally and is deployment-ready. It can be provisioned in any AWS account with valid credentials by running:
+
+```bash
+terraform init
+terraform plan
+terraform apply
+```
+
